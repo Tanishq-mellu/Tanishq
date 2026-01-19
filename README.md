@@ -10,9 +10,5 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-mellu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Tanishq-mellu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq-mellu&theme=dark&hide_border=false)
 ### ⬇️ Below are my contributed repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tanishq-mellu&limit=5&theme=dark&combine_all_yearly_contributions=true)
