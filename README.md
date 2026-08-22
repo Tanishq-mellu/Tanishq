@@ -37,11 +37,6 @@
   </a>
 </p>
 
- <a href="https://tryhackme.com/TanishqMeshram/badges/advent-of-cyber-2025?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
-    <img src="https://assets.tryhackme.com/img/badges/advent-of-cyber-2025.png" />
-  </a>
-</p>
-
 <p align="center">
   <b>TryHackMe</b> · Top 3% ·
   <a href="https://tryhackme.com/p/TanishqMeshram">Full Profile ↗</a>
