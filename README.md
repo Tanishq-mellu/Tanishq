@@ -1,4 +1,4 @@
-
+<img width="1800" height="1800" alt="image" src="https://github.com/user-attachments/assets/126caf70-d4d7-48d8-82c2-f3d143297591" />
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tnshqmeshram@gmail.com) 
 
@@ -16,20 +16,29 @@
 <h2>CTF & Security Practice</h2>
 
 <p align="center">
-  <a href="https://tryhackme.com/TanishqMeshram/badges/advent-of-cyber-2025?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
-    <img src="./assets/tryhackme/badge-1.png" width="100" alt="TryHackMe badge" />
-  </a>
-  <a href="https://tryhackme.com/TanishqMeshram/badges/ohsint?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
-    <img src="./assets/tryhackme/badge-2.png" width="100" alt="TryHackMe badge" />
-  </a>
-  <a href="https://tryhackme.com/TanishqMeshram/badges/adversarial-defence-ops?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
-    <img src="./assets/tryhackme/badge-3.png" width="100" alt="TryHackMe badge" />
-  </a>
-  <a href="https://tryhackme.com/TanishqMeshram/badges/ai-odyssey?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
-    <img src="./assets/tryhackme/badge-4.png" width="100" alt="TryHackMe badge" />
-  </a>
   <a href="https://tryhackme.com/TanishqMeshram/badges/ai-path-completion?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
-    <img src="./assets/tryhackme/badge-5.png" width="100" alt="TryHackMe badge" />
+    <img src="https://assets.tryhackme.com/img/badges/ai-security-path-badge.png" width="105" alt="TryHackMe badge" />
+  </a>
+
+  <a href="https://tryhackme.com/TanishqMeshram/badges/ai-odyssey?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
+    <img src="https://assets.tryhackme.com/img/badges/ai-odyssey-participation.svg" width="105" alt="TryHackMe badge" />
+  </a>
+
+  <a href="https://tryhackme.com/TanishqMeshram/badges/adversarial-defence-ops?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
+    <img src="https://assets.tryhackme.com/img/badges/defensive-ai.png" width="105" alt="TryHackMe badge" />
+  </a>
+
+  <a href="https://tryhackme.com/TanishqMeshram/badges/owasp-10?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
+    <img src="https://assets.tryhackme.com/img/badges/owasptop10.png" width="105" alt="TryHackMe badge" />
+  </a>
+
+  <a href="https://tryhackme.com/TanishqMeshram/badges/ohsint?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
+    <img src="https://assets.tryhackme.com/img/badges/ohsint.png" width="105" alt="TryHackMe badge" />
+  </a>
+</p>
+
+ <a href="https://tryhackme.com/TanishqMeshram/badges/advent-of-cyber-2025?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
+    <img src="https://assets.tryhackme.com/img/badges/advent-of-cyber-2025.png" />
   </a>
 </p>
 
