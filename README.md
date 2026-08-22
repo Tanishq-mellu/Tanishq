@@ -13,8 +13,6 @@
 ### ⬇️ Below are my contributed repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tanishq-mellu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## CTF & Security Practice
-
 <h2>CTF & Security Practice</h2>
 
 <p align="center">
