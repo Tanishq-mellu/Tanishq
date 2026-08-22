@@ -34,6 +34,6 @@
 </p>
 
 <p align="center">
-  <b>TryHackMe</b> · Top 4% ·
+  <b>TryHackMe</b> · Top 3% ·
   <a href="https://tryhackme.com/p/TanishqMeshram">Full Profile ↗</a>
 </p>
