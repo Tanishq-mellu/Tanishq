@@ -15,19 +15,27 @@
 
 ## CTF & Security Practice
 
+<h2>CTF & Security Practice</h2>
+
 <p align="center">
-  <img src="./assets/tryhackme/badge-1.png" width="105" />
-  <img src="./assets/tryhackme/badge-2.png" width="105" />
-  <img src="./assets/tryhackme/badge-3.png" width="105" />
-  <img src="./assets/tryhackme/badge-4.png" width="105" />
-  <img src="./assets/tryhackme/badge-5.png" width="105" />
-  <img src="./assets/tryhackme/badge-6.png" width="105" />
+  <a href="https://tryhackme.com/TanishqMeshram/badges/advent-of-cyber-2025?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
+    <img src="./assets/tryhackme/badge-1.png" width="100" />
+  </a>
+  <a href="https://tryhackme.com/TanishqMeshram/badges/ohsint?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
+    <img src="./assets/tryhackme/badge-2.png" width="100" />
+  </a>
+  <a href="https://tryhackme.com/TanishqMeshram/badges/adversarial-defence-ops?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
+    <img src="./assets/tryhackme/badge-3.png" width="100" />
+  </a>
+  <a href="https://tryhackme.com/TanishqMeshram/badges/ai-odyssey?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
+    <img src="./assets/tryhackme/badge-4.png" width="100" />
+  </a>
+  <a href="https://tryhackme.com/TanishqMeshram/badges/ai-path-completion?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68cc46889d6f029f04d293f9">
+    <img src="./assets/tryhackme/badge-5.png" width="100" />
+  </a>
 </p>
 
 <p align="center">
-  <b>TryHackMe</b> · Top 3% · Rare & Epic badges ·
-  <a href="https://tryhackme.com/p/TanishqMeshram?tab=badges">Full Profile ↗</a>
-</p>
-<p align="center">
-  Hands-on practice across web security, Linux, networking and offensive security.
+  <b>TryHackMe</b> · Top 4% ·
+  <a href="https://tryhackme.com/p/TanishqMeshram">Full Profile ↗</a>
 </p>
