@@ -12,3 +12,22 @@
 
 ### ⬇️ Below are my contributed repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tanishq-mellu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## CTF & Security Practice
+
+<p align="center">
+  <img src="./assets/tryhackme/badge-1.png" width="105" />
+  <img src="./assets/tryhackme/badge-2.png" width="105" />
+  <img src="./assets/tryhackme/badge-3.png" width="105" />
+  <img src="./assets/tryhackme/badge-4.png" width="105" />
+  <img src="./assets/tryhackme/badge-5.png" width="105" />
+  <img src="./assets/tryhackme/badge-6.png" width="105" />
+</p>
+
+<p align="center">
+  <b>TryHackMe</b> · Top 3% · Rare & Epic badges ·
+  <a href="https://tryhackme.com/p/TanishqMeshram?tab=badges">Full Profile ↗</a>
+</p>
+<p align="center">
+  Hands-on practice across web security, Linux, networking and offensive security.
+</p>
